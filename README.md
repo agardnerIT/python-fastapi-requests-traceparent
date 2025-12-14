@@ -1,5 +1,8 @@
 # python-fastapi-requests-traceparent
 
+This is the companion repo for this video: https://www.youtube.com/watch?v=azyVG0T1aVc
+
+Watch this video in conjunction with this repo as it'll make much more sense (plus, the video shows how to fix the "split trace" problem).
 
 ```
 python -m venv .
